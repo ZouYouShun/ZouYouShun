@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://blog.morningbunny.cloud/en">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=760&height=52&lines=Hi%2C+I'm+Declan+Zou+(Alan)+%F0%9F%91%8B;Staff+Frontend+Architect+%7C+Real-Time+%26+Edge+Systems;WebRTC+%E2%80%A2+Electron+%E2%80%A2+RxJS+%E2%80%A2+Nx+Monorepo+%E2%80%A2+Cloudflare" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=760&height=52&lines=Hi%2C+I'm+Declan+Zou+(Alan)+%F0%9F%91%8B;Staff+Full-Stack+Architect+%7C+AI+%26+Real-Time+Systems;AI+Agents+%E2%80%A2+NestJS+%E2%80%A2+React+%E2%80%A2+Electron+%E2%80%A2+Cloudflare" alt="Typing SVG" />
 </a>
 
 <p>
@@ -33,9 +33,9 @@
 
 ### About Me
 
-I'm **Declan Zou (Alan)**, a **Staff Frontend Architect** based in Taiwan, focused on engineering resilient web platforms, real-time collaborative systems, and edge-native applications.
+I'm **Declan Zou (Alan)**, a **Staff Full-Stack & AI Architect** based in Taiwan, focused on engineering AI-powered applications, end-to-end scalable platforms, and real-time distributed systems.
 
+- **AI Engineering & Agents**: Designing LLM-driven applications, multi-agent orchestration, AI-native developer workflows, and edge AI integrations
+- **Full-Stack Systems**: End-to-end architecture spanning **NestJS / Node.js / MySQL / Redis**, **React / Angular / TypeScript**, and **Nx Monorepo** tooling
 - **Real-Time & Desktop**: Multi-client state synchronization with **WebRTC**, **Electron**, and **RxJS** reactive pipelines
-- **Architecture & Tooling**: Large-scale **Nx Monorepo** governance, custom builders/executors, and **Micro-Frontend (MFE)** host architectures
-- **Edge & AI**: Full-stack serverless systems on **Cloudflare Workers**, **R2 / KV / Durable Objects**, and AI-assisted workflows
-- **Digital Engineering Lab**: [blog.morningbunny.cloud](https://blog.morningbunny.cloud/en) — 50+ interactive micro-apps & deep-dive architecture notes
+- **Edge & Cloud**: Serverless systems on **Cloudflare Workers**, **R2 / KV / Durable Objects**, and **Micro-Frontend (MFE)** host architectures

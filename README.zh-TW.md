@@ -2,7 +2,7 @@
 
 <!-- 動態打字機標頭 -->
 <a href="https://blog.morningbunny.cloud/zh">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=760&height=52&lines=Hi%2C+I'm+Declan+Zou+(Alan)+%F0%9F%91%8B;Staff+Frontend+Architect+%7C+%E5%8D%B3%E6%99%82%E7%B3%BB%E7%B5%B1%E8%88%87%E9%82%8A%E7%B7%A3%E9%81%8B%E7%AE%97%E6%9E%B6%E6%A7%8B;WebRTC+%E2%80%A2+Electron+%E2%80%A2+RxJS+%E2%80%A2+Nx+Monorepo+%E2%80%A2+Cloudflare" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=760&height=52&lines=Hi%2C+I'm+Declan+Zou+(Alan)+%F0%9F%91%8B;%E8%B3%87%E6%B7%B1%E5%85%A8%E7%AB%AF%E8%88%87+AI+%E7%B3%BB%E7%B5%B1%E6%9E%B6%E6%A7%8B%E5%B8%AB+%7C+Full-Stack+%26+AI+Architect;AI+Agents+%E2%80%A2+NestJS+%E2%80%A2+React+%E2%80%A2+Electron+%E2%80%A2+Cloudflare" alt="Typing SVG" />
 </a>
 
 <p>
@@ -33,9 +33,9 @@
 
 ### 關於我
 
-我是 **Declan Zou (Alan)**，現居台灣的 **資深前端架構師 (Staff Frontend Architect)**，專注於打造高韌性 Web 平台、即時協作系統與邊緣原生應用。
+我是 **Declan Zou (Alan)**，現居台灣的 **資深全端與 AI 系統架構師 (Staff Full-Stack & AI Architect)**，專注於打造 AI 驅動應用、端到端高擴展全端平台與即時分散式系統。
 
+- **AI 工程與 Agent 系統**：具備豐富 LLM 應用落地、多 Agent 協作編排、AI 原生開發工作流與邊緣 AI 整合經驗
+- **全端系統架構**：涵蓋 **NestJS / Node.js / MySQL / Redis** 後端設計、**React / Angular / TypeScript** 前端與 **Nx Monorepo** 工程化治理
 - **即時通訊與桌面平台**：專精 **WebRTC**、**Electron** 多端狀態同步與 **RxJS** 響應式資料串流
-- **前端架構與工程化**：大型 **Nx Monorepo** 治理、客製化 Builder / Executor 與 **微前端 (MFE)** 宿主架構
-- **邊緣運算與 AI 工作流**：基於 **Cloudflare Workers**、**R2 / KV / Durable Objects** 與 AI 輔助開發流程
-- **數位工程實驗室**：[blog.morningbunny.cloud](https://blog.morningbunny.cloud/zh) — 收錄 50+ 個互動微應用與系統架構筆記
+- **邊緣運算與微前端**：基於 **Cloudflare Workers**、**R2 / KV / Durable Objects** 與 **微前端 (MFE)** 宿主架構
